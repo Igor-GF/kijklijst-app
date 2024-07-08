@@ -6,9 +6,10 @@
         <artifactId>kijklijst-app</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
     <artifactId>movie-service</artifactId>
+
     <dependencies>
-        <!-- Spring Boot Starter Dependencies -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
